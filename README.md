@@ -15,7 +15,7 @@ This project is useful in converting decimal, octal and hexadecimal number to bi
 This project uses various concepts of python such as loops, multiple if else, strings, list, etc.
 
 # Steps to run the program:
-Step 1) This project first takes input of a binary number from the user.
+Step 1) This project first takes input of a number from the user.
 Step 2) Then a menu appears on the user's screen which displays the following options:
         1. Decimal to Binary
         2. Octal to Binary
