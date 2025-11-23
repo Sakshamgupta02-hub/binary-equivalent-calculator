@@ -1,5 +1,5 @@
 # Problem Statement
-This main aim of the project is to create a program that can convert decimal , octal and hexadecimal number system to their respective binary equivalents.This program involves taking an input from the user (number and choice) and then displaying the desired output (binary equivalent).
+This main aim of the project is to create a program that can convert decimal , octal and hexadecimal number system to their respective binary equivalents. This program involves taking an input from the user (number and choice) and then displaying the desired output (binary equivalent).
 
 # Scope Of The Project
 The main aim of the project is to serve as a tool for anyone working with computer systems, from students to software developers. This program helps the user to have a better understanding of how information is stored in the computer's memory which all happens in binary(0s and 1s).It helps students and beginners learn about the relationships between different number systems and how computers work at a fundamental level.
