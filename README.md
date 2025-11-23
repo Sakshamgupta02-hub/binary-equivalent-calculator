@@ -1,5 +1,8 @@
 # Project Title: Binary Equivalent Calculator
 
+# Overview Of The Project
+This project creates a tool to convert decimal, octal, and hexadecimal numbers to their binary equivalents. The main objective of the project is the conversion of decimal to binary by repeated division by 2, octal to binary by converting each octal digit to its 3-bit binary equivalent, and hexadecimal to binary by converting each hex digit to its 3-bit binary equivalent. A user interface will allow the user to select the conversion type and input the number, with the program then displaying the final binary result.
+
 # Real Life Problem:
 The computers depend upon binary system(0s and 1s) to represent all of their information and to 
 perform all of their operations.This conversion is also important for various network devices.In programming, higher level
