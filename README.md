@@ -6,7 +6,7 @@ This project creates a tool to convert decimal, octal, and hexadecimal numbers t
 # Real Life Problem:
 The computers depend upon binary system(0s and 1s) to represent all of their information and to 
 perform all of their operations.This conversion is also important for various network devices.In programming, higher level
-language is converted into binary code.
+language is converted into binary code. Since, few low level systems understand only binary code(0s and 1s).
 
 # Features:
 This project is useful in converting decimal, octal and hexadecimal number to binary number.
